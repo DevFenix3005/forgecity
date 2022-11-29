@@ -1,6 +1,7 @@
 # Firebase Chat
 
 [Demo](https://forgecity.rebirth.com.mx)
+[Video](https://youtu.be/vqI6VCJJiRk)
 
 Create a chat application using [Firebase](https://firebase.google.com/) as your backend.
 
